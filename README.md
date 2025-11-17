@@ -1,5 +1,7 @@
 Unfinished product. Intended for study purposes. This is a beginner's Wordpress website implementation using plugins and minor CSS alterations.
+
 The project is implemented using the Greek language and European Union currencies by default. These are both configurable through the Wordpress and WooCommerce settings, respectively.
+
 Any perceived personal information included on the website is from random Google Maps queries and an obviously fake e-mail.
 
 Published under the MIT license, which allows free use and distribution of any kind, but without any form of warranty.
